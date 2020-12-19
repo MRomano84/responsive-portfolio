@@ -14,3 +14,8 @@ div.pics {
 div.card-body {
     text-align: center;
 }
+
+div.card {
+    background-color: #011a27;
+    color: antiquewhite;
+}
