@@ -12,7 +12,7 @@ I began by using a bootstrap cdn to find a navbar. I also found content cards th
 
 ## Result
 
-I worked on this project over the course of about 5 days. The layout and content changed many times. In the future I would replace the images with either screenshots of work I have done or links to things I have created (apps, webpages, etc.) to show to potential employers.
+I worked on this project over the course of about 5 days. The layout and content changed **many** times. In the future I would replace the images with either screenshots of work I have done or links to things I have created _(apps, webpages, etc.)_ to show to potential employers.
 
 
 
