@@ -1,0 +1,13 @@
+body {
+    background-color: #063852;
+}
+
+nav.navbar {
+    background-color: #f0810f;
+}
+
+div.container {
+    max-width: 540px;
+    margin-top: 50px;
+    background-color: #011a27;
+}

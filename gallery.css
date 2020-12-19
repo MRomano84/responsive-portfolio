@@ -1,0 +1,16 @@
+body {
+    background-color: #063852;
+}
+
+nav.navbar {
+    background-color: #f0810f;
+}
+
+div.pics {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+div.card-body {
+    text-align: center;
+}
